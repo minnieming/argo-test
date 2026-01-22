@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: minnielee/k8s:13 kimjuhyo/k8s:latest
+          image: minnielee/k8s:14
           ports:
             - containerPort: 8080
 
